@@ -7,7 +7,7 @@ Uses `chrome-cookies-secure` package to retrieve the cookies from your current C
 Add this dependency into package.json:
 
 ```json
-"cookie-manager": "github:josep11/cookie-manager#semver:^0.0.1"
+"cookie-manager": "github:josep11/cookie-manager#semver:^0.0.2"
 ```
 
 ## Usage
